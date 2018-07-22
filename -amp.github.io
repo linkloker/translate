@@ -1,4 +1,4 @@
-<div id='google_translate_element'/><script>
+<div id='google_translate_element'/>
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({
     pageLanguage: &#39;id&#39;,
@@ -6,4 +6,4 @@ function googleTranslateElementInit() {
     layout: google.translate.TranslateElement.InlineLayout.HORIZONTAL
   }, &#39;google_translate_element&#39;);
 }
-</script><script src='//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit'/>
+<div class='clear'/>
